@@ -1,0 +1,13 @@
+Sample_ID
+coverage
+genome
+PTR
+Day_of_Life
+Individual
+Antibiotic_Treatment
+species
+genus
+family
+class
+order
+phylum

@@ -1,0 +1,2 @@
+Prefix plugins/PairedPValue/example
+Plugin PairedPValue inputfile parameters.txt outputfile Significance.txt
